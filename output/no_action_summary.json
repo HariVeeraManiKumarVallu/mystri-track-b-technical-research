@@ -1,0 +1,14 @@
+{
+  "snapshot_at": "2026-09-07T09:00:00+05:30",
+  "requests_evaluated": 8,
+  "baseline_actions": 7,
+  "proposed_actions": 0,
+  "proposed_reviews": 7,
+  "proposed_excludes": 1,
+  "baseline_to_action_reduction": 1.0,
+  "event_rows": 128,
+  "unique_event_ids": 124,
+  "duplicate_event_deliveries": 4,
+  "known_active_minutes_after_dedup": 400,
+  "logged_reminder_minutes_after_dedup": 9
+}

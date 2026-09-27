@@ -1,0 +1,9 @@
+request_id,case_id,item,baseline,proposed,reason,last_requested_at,received_at
+R009,C009,fault_photo,ACTION,ACTION,117.0h_elapsed_and_item_not_received,2026-09-02T12:00+05:30,
+R012,C012,fault_photo,EXCLUDE,EXCLUDE,followup_not_allowed,2026-09-03T10:00+05:30,
+R016,C016,fault_photo,ACTION,REVIEW,only_46.0h_since_last_request,2026-09-05T11:00+05:30,
+R018,C018,fault_photo,ACTION,REVIEW,request_received_but_status_is_pending,2026-09-02T12:00+05:30,2026-09-03T14:00+05:30
+R022,C022,fault_photo,ACTION,REVIEW,last_requested_at_missing,,
+R024,C024,fault_photo,ACTION,ACTION,69.0h_elapsed_and_item_not_received,2026-09-04T12:00+05:30,
+R025,C009,site_access,ACTION,ACTION,117.0h_elapsed_and_item_not_received,2026-09-02T12:00+05:30,
+R026,C024,serial_number,ACTION,ACTION,69.0h_elapsed_and_item_not_received,2026-09-04T12:00+05:30,
